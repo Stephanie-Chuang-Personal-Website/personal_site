@@ -1,1 +1,1 @@
-# personal_site
+# personal website including home page, about page, and portfolio page.
