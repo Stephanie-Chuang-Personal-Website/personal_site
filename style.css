@@ -1,4 +1,55 @@
-.homePage{
+/* Home Page */
+
+.homepage{
     background-color:rgb(172, 206, 235);
     text-align: center;
+}
+
+.navHome{
+    color: rgb(249, 145, 145);
+}
+.homeheader{
+    color: rgb(255, 227, 145);
+}
+
+.home-content{
+    color: rgb(249, 113, 113);
+}
+
+/* About Page */
+
+.aboutpage{
+    background-color: rgb(255, 227, 145);
+    text-align: center;
+}
+
+.navAbout {
+    color: rgb(49, 131, 162);
+}
+
+.aboutheader{
+    color: rgb(249, 113, 113);
+}
+
+.about-content{
+    color: rgb(249, 113, 113);
+}
+
+/* Portfoio Page */
+
+.portfoliopage{
+    background-color: rgb(249, 145, 145);
+    text-align: center;    
+}
+
+.navPortfolio{
+    color: rgb(117, 180, 238);
+}
+
+.pheader{
+    color: rgb(255, 227, 145);
+}
+
+.projects{
+    color: rgb(49, 131, 162);
 }
