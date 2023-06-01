@@ -1,55 +1,65 @@
 /* Home Page */
 
-.homepage{
-    background-color:rgb(172, 206, 235);
-    text-align: center;
+.links {
+  font-size: large;
 }
 
-.navHome{
-    color: rgb(249, 145, 145);
-}
-.homeheader{
-    color: rgb(255, 227, 145);
+.homepage {
+  background-color: rgb(172, 206, 235);
+  text-align: center;
 }
 
-.home-content{
-    color: rgb(249, 113, 113);
+.navHome {
+  color: rgb(249, 145, 145);
+  text-decoration: underline;
+}
+.homeheader {
+  color: rgb(255, 227, 145);
+}
+
+.home-content {
+  color: rgb(249, 113, 113);
+  font-size: large;
 }
 
 /* About Page */
 
-.aboutpage{
-    background-color: rgb(255, 227, 145);
-    text-align: center;
+.aboutpage {
+  background-color: rgb(255, 227, 145);
+  text-align: center;
 }
 
 .navAbout {
-    color: rgb(49, 131, 162);
+  color: rgb(49, 131, 162);
+  text-decoration: underline;
 }
 
-.aboutheader{
-    color: rgb(249, 113, 113);
+.aboutheader {
+  color: rgb(249, 113, 113);
 }
 
-.about-content{
-    color: rgb(249, 113, 113);
+.about-content {
+  color: rgb(249, 113, 113);
+  font-size: large;
 }
 
 /* Portfoio Page */
 
-.portfoliopage{
-    background-color: rgb(249, 145, 145);
-    text-align: center;    
+.portfoliopage {
+  background-color: rgb(249, 145, 145);
+  text-align: center;
 }
 
-.navPortfolio{
-    color: rgb(117, 180, 238);
+.navPortfolio {
+  color: rgb(117, 180, 238);
+  text-decoration: underline;
 }
 
-.pheader{
-    color: rgb(255, 227, 145);
+.pheader {
+  color: rgb(255, 227, 145);
 }
 
-.projects{
-    color: rgb(49, 131, 162);
+.projects {
+  color: rgb(49, 131, 162);
+  font-size: large;
 }
