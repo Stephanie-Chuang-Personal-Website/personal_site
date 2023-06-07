@@ -5,6 +5,9 @@
 }
 
 .homepage {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
   background-color: rgb(172, 206, 235);
   text-align: center;
 }
@@ -25,6 +28,9 @@
 /* About Page */
 
 .aboutpage {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
   background-color: rgb(255, 227, 145);
   text-align: center;
 }
@@ -32,6 +38,7 @@
 .navAbout {
   color: rgb(49, 131, 162);
   text-decoration: underline;
+  font-size: 50px;
 }
 
 .aboutheader {
@@ -41,11 +48,16 @@
 .about-content {
   color: rgb(249, 113, 113);
   font-size: large;
+  margin-left: 20%;
+  margin-right: 20%;
 }
 
 /* Portfoio Page */
 
 .portfoliopage {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
   background-color: rgb(249, 145, 145);
   text-align: center;
 }
@@ -62,4 +74,6 @@
 .projects {
   color: rgb(49, 131, 162);
   font-size: large;
+  margin-left: 20%;
+  margin-right: 20%;
 }
