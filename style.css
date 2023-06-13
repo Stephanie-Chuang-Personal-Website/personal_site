@@ -15,7 +15,9 @@
 .navHome {
   color: rgb(249, 145, 145);
   text-decoration: underline;
+  font-size: 50px;
 }
+
 .homeheader {
   color: rgb(255, 227, 145);
 }
@@ -63,8 +65,9 @@
 }
 
 .navPortfolio {
-  color: rgb(117, 180, 238);
+  color: rgb(49, 131, 162);
   text-decoration: underline;
+  font-size: 50px;
 }
 
 .pheader {
@@ -76,4 +79,24 @@
   font-size: large;
   margin-left: 20%;
   margin-right: 20%;
+}
+
+/* Contact Page */
+
+.contactpage{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgb(136, 229, 222);
+}
+
+.navContact{
+  color: rgb(249, 145, 145);
+  text-decoration: underline;
+}
+
+.form{
+  display: flex;
+  flex-direction: column;
 }
